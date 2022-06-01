@@ -1,0 +1,3 @@
+timestamp,timer_trigger,event,event_type,event_group,timestamp_utc,timezone
+2022-02-01 13:24:44+01:00,manual,timer,start,0,2022-02-01 12:24:44,Europe/Rome
+2022-02-01 15:56:18+01:00,manual,timer,stop_all,0,2022-02-01 14:56:18,Europe/Rome
